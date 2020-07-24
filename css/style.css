@@ -1,7 +1,18 @@
+@keyframes shadow {
+from {opacity:0;}
+to {opacity:1;}
+}
 .top{
 	background-image: url(../img/main-bg.jpg);
+  opacity:0;
 	position: fixed;
 	width:100%;
-	height:734px;
-	background-size:contain;
+	height:745px;
+	background-size:cover;
+	right:0px;
+	animation: shadow  2s;
+}
+.top-color{
+	width:100%;
+	height:745px;
 }
