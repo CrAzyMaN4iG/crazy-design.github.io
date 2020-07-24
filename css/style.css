@@ -17,4 +17,7 @@ to {opacity:1;}
 	width:100%;
 	height:745px;
 	background-color: black;
+	position: relative;
+	top:0px;
+	right:0px;
 }
