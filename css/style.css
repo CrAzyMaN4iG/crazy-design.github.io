@@ -15,9 +15,9 @@ to {opacity:1;}
 }
 .top-color{
 	width:100%;
-	height:745px;
+	height:753px;
 	background-color: black;
 	position: relative;
-	top:0px;
-	right:0px;
+	bottom:8px;
+	right:8px;
 }
