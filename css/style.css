@@ -2,6 +2,13 @@
 from {opacity:0;}
 to {opacity:1;}
 }
+@font-face {
+
+font-family: Quantify; 
+
+src: url(../fonts/Quantify.ttf); 
+
+}
 .top{
 	background-image: url(../img/main-bg.jpg);
   opacity:0;
@@ -23,5 +30,5 @@ to {opacity:1;}
 }
 .top-text{
 	color:white;
-	
+    font-family: Quantify; 
 }
